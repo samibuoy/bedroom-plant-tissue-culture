@@ -1,5 +1,5 @@
 # bedroom-plant-tissue-culture
-# 🌿 Micropropagation in My Room
+# 🌿 Home Micropropagation
 
 Welcome to my open-source plant tissue culture research repository. I am documenting my self-directed study in botanical micropropagation, tracking culture media variations, and optimizing tissue culture protocols right from my bedroom.
 
