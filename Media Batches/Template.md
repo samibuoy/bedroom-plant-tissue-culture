@@ -11,4 +11,4 @@ autoclave_minutes: 20
 ---
 
 ## Notes
-Mixed easily. pH adjusted using 1M NaOH. Gelled perfectly using agar at 7g/L.
+Mixed easily. pH adjusted using 1M NaOH. Gelled perfectly using agar at 7g/L. test
